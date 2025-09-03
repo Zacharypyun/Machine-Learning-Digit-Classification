@@ -1,7 +1,5 @@
 # Machine Learning Digit Classification
 
-# Machine Learning Assignment: Neural Networks and Perceptron
-
 ## Overview
 This assignment implements machine learning models including perceptron, neural networks, and recurrent neural networks for various tasks including digit classification and language identification.
 
